@@ -1,0 +1,16 @@
+.header__list{
+  display: flex;
+}
+.header__item + .header__item{
+  margin-left: 33px;
+}
+a:hover{
+  color: blue;
+  background-color: crimson;
+}
+.header__container{
+  padding: 44px 0;
+  display: flex;
+justify-content: space-between;
+align-items: center;
+}

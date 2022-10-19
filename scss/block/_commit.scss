@@ -1,0 +1,32 @@
+.commit__box{
+  display: flex;
+  align-items: center;
+padding: 0 80px;
+margin-bottom: 256px;
+}
+.commit__content{
+margin-left: 125px;
+margin: 0 auto;
+}
+.commit__title{
+  font-family: 'Fraunces 9pt';
+font-style: normal;
+max-width: 357px;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #333D4B;
+}
+.commit__img{
+  max-width: 445px;
+}
+.commit__text{
+  font-family: 'Barlow';
+font-style: normal;
+max-width: 540px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #333D4B;
+opacity: 0.8;
+}

@@ -1,0 +1,38 @@
+.quality__content{
+  background: #2C343E;
+border-radius: 10px;
+padding-left: 85px;
+padding-top: 88px;
+padding-bottom: 176px;
+position: relative;
+}
+.quality__img{
+  background-image: url(/img/quality__img.jpg);
+  background-repeat: no-repeat;
+  width: 445px;
+height: 474px;
+position: absolute;
+left: 750px;
+top: -65px;
+}
+.quality__title{
+  font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+max-width: 517px;
+color: #FEFCF7;
+
+}
+.quality__text{
+  font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+margin-top: 32px;
+font-size: 16px;
+line-height: 26px;
+max-width: 540px;
+color: #FEFCF7;
+opacity: 0.8;
+}

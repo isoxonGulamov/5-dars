@@ -1,0 +1,31 @@
+.hero__img-block{
+  background-image: url(/img/site-hero-img.jpg);
+  background-repeat: no-repeat;
+  padding: 117px 0;
+  border-radius: 10px;
+}
+.hero__title{
+  font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height, or 120% */
+
+
+color: #FEFCF7;
+
+}
+.hero__text{
+  font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+max-width: 445px;
+color: #FEFCF7;
+}
+.hero__content-block{
+  padding-left: 85px;
+  margin-bottom: 168px;
+}
